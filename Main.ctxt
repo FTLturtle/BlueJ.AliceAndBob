@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ This\ main\ method\ simply\ calls\ the\ method\ aliceAndBob.\n
+comment2.params=
+comment2.target=void\ aliceAndBob()
+comment2.text=\n\ This\ method\ asks\ the\ user\ what\ their\ name\ is.\ If\ the\ user's\ name\ is\n\ "Alice"\ or\ "Bob",\ then\ it\ greets\ the\ user\ with\ "Hello\!".\ In\ every\n\ other\ case,\ it\ says\ "You\ are\ not\ Alice\ or\ Bob."\n
+numComments=3
